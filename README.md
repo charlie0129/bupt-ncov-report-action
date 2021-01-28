@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-首先，点击上方绿色的 **Use this template**，使用这个模板创建你自己的 Repository；
+首先，fork；
 
 然后，在你自己仓库的 Settings 的 Secrets 中设置以下信息：
 
